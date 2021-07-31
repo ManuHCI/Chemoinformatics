@@ -1,6 +1,8 @@
-#In-Silico Repositioning of Drugs for Neurofibromatosis 2 Vestibular Schwannoma using Machine Learning 
+# In-Silico Repositioning of Drugs for Neurofibromatosis 2 Vestibular Schwannoma using Machine Learning 
 ## Team   - **MedBot**
----
+
+## [Project page](https://www.synapse.org/#!Synapse:syn25958848/wiki/611610)
+
 ## Team members
 1. Kshitij Mohan - Undergrad Student, IIIT Delhi
 2. Pranav Goyal - Undergrad Student, IIIT Delhi
