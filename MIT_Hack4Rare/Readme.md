@@ -49,6 +49,8 @@ Our model achieved
 * Mean square error:  0.761   
 * R_Square Score:  0.206
 
+![Results](https://github.com/Amritpal-001/Chemoinformatics/blob/master/MIT_Hack4Rare/Images/results.png)
+
 ---
 
 ---
@@ -83,3 +85,4 @@ One advantages of the model is that, our model able to predict the affinity of  
 [Presentation video](https://drive%2Egoogle%2Ecom/file/d/1ffCcEu1wn4cXMN7kgJoTvmpXjd%2DsEx5L/view)
 ---
 ## Team
+![Team](https://github.com/Amritpal-001/Chemoinformatics/blob/master/MIT_Hack4Rare/Images/team.png)
